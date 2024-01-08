@@ -28,6 +28,7 @@ Insight:
 __How does the age or class of a passenger relate to their survival?__
 Insight:
 - Younger Passengers and Higher Classes Had Higher Survival Rates: Younger passengers and those in higher classes (especially 1st class) had a higher likelihood of survival.
+  
 __Were there any trends or patterns in the data that affected survival?__
 Insight:
 - Fare and Embarked Port Showed Trends: Passengers who paid higher fares and those who embarked from certain ports had higher survival rates.
