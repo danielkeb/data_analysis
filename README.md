@@ -17,4 +17,17 @@ Insight:
 Insight:
 - Higher Fare Passengers Had a Higher Survival Rate: Passengers who paid higher fares had a better chance of survival.
 
-### These are general trends observed in the Titanic dataset. The provided code above are  use seaborn and matplotlib for visualization.
+##### These are general trends observed in the Titanic dataset. The provided code above are  use seaborn and matplotlib for visualization.
+
+ # Answer for question.txt listed questions
+  
+-- What factors influenced the survival rate of passengers?
+Insight:
+- Gender and Passenger Class Were Strong Influencers: The survival rate was significantly higher for females compared to males. Additionally, passengers in higher classes had a better chance of survival.
+
+-- How does the age or class of a passenger relate to their survival?
+Insight:
+- Younger Passengers and Higher Classes Had Higher Survival Rates: Younger passengers and those in higher classes (especially 1st class) had a higher likelihood of survival.
+-- Were there any trends or patterns in the data that affected survival?
+Insight:
+-Fare and Embarked Port Showed Trends: Passengers who paid higher fares and those who embarked from certain ports had higher survival rates.
