@@ -21,13 +21,13 @@ Insight:
 
  # Answer for question.txt listed questions
   
--- What factors influenced the survival rate of passengers?
+__What factors influenced the survival rate of passengers?__
 Insight:
 - Gender and Passenger Class Were Strong Influencers: The survival rate was significantly higher for females compared to males. Additionally, passengers in higher classes had a better chance of survival.
 
--- How does the age or class of a passenger relate to their survival?
+__How does the age or class of a passenger relate to their survival?__
 Insight:
 - Younger Passengers and Higher Classes Had Higher Survival Rates: Younger passengers and those in higher classes (especially 1st class) had a higher likelihood of survival.
-  --Were there any trends or patterns in the data that affected survival?
+__Were there any trends or patterns in the data that affected survival?__
 Insight:
 - Fare and Embarked Port Showed Trends: Passengers who paid higher fares and those who embarked from certain ports had higher survival rates.
