@@ -1,4 +1,6 @@
-# some description about our titanic datasets that i view
+# My Name is Daniel kebede ID: 0438/12
+
+# some description about our titanic datasets that i saw.
 ## Passenger Class and Survival:
 Insight:
 - Higher Class Passengers Had a Higher Survival Rate: Passengers in higher classes
@@ -19,7 +21,7 @@ Insight:
 
 ##### These are general trends observed in the Titanic dataset. The provided code above are  use seaborn and matplotlib for visualization.
 
- # Answer for question.txt listed questions
+# Answer for question.txt listed questions
   
 __What factors influenced the survival rate of passengers?__
 Insight:
