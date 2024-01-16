@@ -141,10 +141,7 @@ train=logregression.predict(X_train)
 print("training model accuracy: " ,accuracy_score(y_train,train))
 plt.scatter(y_train,train,)
 plt.show()
-"""
-It returns a score of 1.0 .The best score is because we are evaluating it with df it's trained on.
-The true measure should be on df it has not seen (Testing df)
-"""
+
 #evaluating our model with df some testing df
 print("testing model accuracy :",accuracy_score(y_test,pred))
 
