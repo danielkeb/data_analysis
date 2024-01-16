@@ -37,5 +37,3 @@
 
 - The correlation coefficient between the 'Age' and 'Purchased' columns is 0.775.
 - This suggests a relatively strong positive correlation between age and the likelihood of making a purchase.
-
-Overall, the analysis provides insights into the demographic distribution, purchase behavior based on age and gender, and the relationship between estimated salary, age, and purchase status. The correlation coefficient suggests a significant positive correlation between age and the likelihood of making a purchase.
